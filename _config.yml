@@ -10,7 +10,7 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "R Programming workshop"
 
 
 #------------------------------------------------------------
@@ -18,7 +18,7 @@ title: "Workshop Title"
 #------------------------------------------------------------
 
 # What kind of thing is this ("workshop" or "lesson")?
-kind: "workshop"
+kind: "Software Carpentry workshop"
 
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
@@ -44,7 +44,7 @@ swc_pages: "https://swcarpentry.github.io"
 swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/carpentries/styles"
 training_site: "https://carpentries.github.io/instructor-training"
-workshop_repo: "https://github.com/carpentries/workshop-template"
+workshop_repo: "http://datacarpentry.org/R-ecology-lesson/02-starting-with-data.html"
 workshop_site: "https://carpentries.github.io/workshop-template"
 
 # Surveys.
